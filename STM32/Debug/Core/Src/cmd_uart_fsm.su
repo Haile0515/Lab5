@@ -1,0 +1,4 @@
+cmd_uart_fsm.c:26:5:isRST	16	static
+cmd_uart_fsm.c:33:5:isOK	16	static
+cmd_uart_fsm.c:40:6:cmd_parser_fsm	8	static
+cmd_uart_fsm.c:78:6:uart_comms_fsm	64	static
